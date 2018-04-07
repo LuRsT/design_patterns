@@ -7,6 +7,18 @@ is mine.
 I'll try to add examples to the design patterns.
 
 
+## Index
+
+### Gang of Four
+
+- [Abstract Factory](GoF/abstract_factory)
+- [Adapter](GoF/adapter)
+- [Builder](GoF/builder)
+- [Factory](GoF/factory)
+- [Prototype](GoF/prototype)
+- [Singleton](GoF/singleton)
+
+
 ## More sources to learn about Software Design Patterns
 
 - https://en.wikipedia.org/wiki/Design_Patterns
