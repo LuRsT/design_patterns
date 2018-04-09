@@ -17,6 +17,7 @@ I'll try to add examples to the design patterns.
 - [Factory](GoF/factory)
 - [Prototype](GoF/prototype)
 - [Singleton](GoF/singleton)
+- [Flyweight](GoF/flyweight)
 
 
 ## More sources to learn about Software Design Patterns
